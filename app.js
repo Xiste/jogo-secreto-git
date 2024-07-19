@@ -11,7 +11,7 @@ function exibirTextoNaTela(tag, texto){
 
 function exibirComeco() {
     exibirTextoNaTela("h1", "Jogo do número");
-    exibirTextoNaTela("p", "escolha nenhum");    
+    exibirTextoNaTela("p", "Escolha um número entre 1 e 100");    
 }
 
 exibirComeco();
